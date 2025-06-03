@@ -1,7 +1,7 @@
 import socket
 import ssl
 import datetime
-import dns.resolver                                        
+import dns.resolver
 import whois
 import requests
 import os
